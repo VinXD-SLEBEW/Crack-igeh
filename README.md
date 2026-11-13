@@ -17,5 +17,5 @@ pip install requests
 git clone https://github.com/VinXD-SLEBEW/Crack-igeh
 cd Crack-igeh
 
-python enc.py
+python crack_igeh.py
 ```
