@@ -1,3 +1,7 @@
+Succesfuly decode? dm tik tok Xioukay telegram @isepjotol
+ada imbalan sebagai tes decode >  encode VinXD
+
+
 ```bash
 
 pkg update -y && pkg upgrade -y
